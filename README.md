@@ -31,4 +31,4 @@ Server: XAMPP
 5. Create a database (e.g., event_db)
 6. Import the SQL file (tables: events, registrations, notices, admin)
 
-Run project: http://localhost/jims/
+# Run project: http://localhost/jims/
